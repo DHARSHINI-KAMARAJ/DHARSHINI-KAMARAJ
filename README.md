@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @DHARSHINI-KAMARAJ
 - 👀 I’m interested in c programming
-- 🌱 I’m currently learning web developement,japanese language 
+- 🌱 I’m currently learning AWS
+- Beginner in web developement,japanese language 
 
 
 <!---
