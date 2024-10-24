@@ -1,0 +1,12 @@
+def find_number(numbers, target):
+    if target in numbers:
+        return f"{target} found in the list!"
+    else:
+        return f"{target} not found in the list."
+
+# Example usage
+numbers = [1, 2, 3, 4, 5]
+target = 3
+
+result = find_number(numbers, target)
+print(result)
